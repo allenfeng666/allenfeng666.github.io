@@ -1,0 +1,132 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Allen Feng, a recent graduate from University of Washington with experience in backend / full-stack development. I am experienced in Java, JavaScript, and frameworks like Spring Boot, React, Node.js. I am also experienced in tools like AWS Cloud, Firebase, Redis and RabbitMQ to improve the performance and usability of web apps.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Internships & Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Internship - Ecommerce Website",
+        "startDate": "2021",
+        "description": "Transformed e-commerce website architecture to support high concurrent shopping sessions.\nDeveloped REST API of the “limited time sale” feature that improved customer ordering percentage.\nAccelerated website loading speed by 300% using static websites, Redis, and CDN.\nOptimized system performance for asynchronous database processing using RabbitMQ.\nUtilized Agile methodologies and Scrum framework to improve remote team development efficiency by 20%.",
+        "images": [
+          "images/portfolio/amazon-shopping.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-spring-plain",
+            "name": "Spring Boot"
+          },
+          {
+            "class": "devicon-redis-plain",
+            "name": "Redis"
+          }
+        ]
+      },
+      {
+        "title": "Projects - Amazon Clone",
+        "startDate": "2022",
+        "description": "An amazon website clone done using using JavaScript and Firebase. Features inclues user authentication, browsing products, and checkout.)",
+        "images": [
+          "images/portfolio/amazon-shopping.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-firebase-plain",
+            "name": "Firebase"
+          }
+        ]
+      },
+      {
+        "title": "Projects - Time management app",
+        "startDate": "2021",
+        "description": "One of the first apps I worked on,  allowing users to record and schedule events, and provide analyzed statistics to maximize efficiency. Implemented user authentication using AWS Cognito, and REST API with AWS Lambda.",
+        "images": [
+          "images/portfolio/amazon-shopping.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Personal Project",
+        "title": "Amazon Clone",
+        "years": "Apr.2022 - present",
+        "mainTech": [
+          "JavaScript"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "NodeJS",
+          "Firebase"
+        ]
+      },
+      {
+        "company": "2A Panda LLC",
+        "title": "Web Developement Intern",
+        "years": "Sep.2021 - Mar.2022",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Spring Boot",
+          "Rest API",
+          "Redis",
+          "CDN",
+          "RabbitMQ",
+          "JavaScript"
+        ]
+      },
+      {
+        "company": "Personal Project",
+        "title": "Time Management app",
+        "years": "Jan.2021 - March.2021",
+        "mainTech": [
+          "AWS"
+        ],
+        "technologies": [
+          "AWS Lamdbda",
+          "AWS Congnito",
+          "AWS DynamoDB",
+          "Rest API",
+          "JavaScript",
+          "React"
+        ]
+      }
+    ]
+  }
