@@ -15,7 +15,7 @@
         "startDate": "2021",
         "description": "Transformed e-commerce website architecture to support high concurrent shopping sessions.\nDeveloped REST API of the “limited time sale” feature that improved customer ordering percentage.\nAccelerated website loading speed by 300% using static websites, Redis, and CDN.\nOptimized system performance for asynchronous database processing using RabbitMQ.\nUtilized Agile methodologies and Scrum framework to improve remote team development efficiency by 20%.",
         "images": [
-          "images/portfolio/amazon-shopping.png"
+          "images/portfolio/internship_1/internship_website.png"
         ],
         "url": "",
         "technologies": [
@@ -38,7 +38,7 @@
         "startDate": "2022",
         "description": "An amazon website clone done using using JavaScript and Firebase. Features inclues user authentication, browsing products, and checkout.)",
         "images": [
-          "images/portfolio/amazon-shopping.png"
+          "images/portfolio/project_1/amazon-shopping.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -61,7 +61,7 @@
         "startDate": "2021",
         "description": "One of the first apps I worked on,  allowing users to record and schedule events, and provide analyzed statistics to maximize efficiency. Implemented user authentication using AWS Cognito, and REST API with AWS Lambda.",
         "images": [
-          "images/portfolio/amazon-shopping.png"
+          "images/portfolio/project_2/project_webapp.png"
         ],
         "url": "https://github.com",
         "technologies": [
