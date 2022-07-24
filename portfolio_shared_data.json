@@ -12,6 +12,11 @@
           "name": "linkedin",
           "url": "https://www.linkedin.com/in/allen-feng",
           "class": "fab fa-linkedin"
+        },
+        {
+          "name": "resume",
+          "url": "files/Allen_Feng_SDE.pdf",
+          "class": "fas fa-file-user"
         }
       ],
       "image": "myProfile.jpg"
