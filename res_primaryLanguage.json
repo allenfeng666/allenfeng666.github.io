@@ -40,7 +40,7 @@
         "images": [
           "images/portfolio/project_1/amazon-shopping.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -63,7 +63,7 @@
         "images": [
           "images/portfolio/project_2/project_webapp.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
