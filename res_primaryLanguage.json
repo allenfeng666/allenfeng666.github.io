@@ -83,17 +83,16 @@
     "experience": [
       {
         "company": "Personal Project",
-        "title": "Amazon Clone",
-        "years": "Apr.2022 - present",
+        "title": "Web 3.0 Blockchain Market",
+        "years": "May.2022 - present",
         "mainTech": [
           "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "NodeJS",
-          "Firebase"
+          "Next JS",
+          "Sanity.io",
+          "Moralis"
         ]
       },
       {
@@ -114,18 +113,18 @@
       },
       {
         "company": "Personal Project",
-        "title": "Time Management app",
-        "years": "Jan.2021 - March.2021",
+        "title": "Mobile Twitter Clone",
+        "years": "May.2021 - August.2021",
         "mainTech": [
           "AWS"
         ],
         "technologies": [
-          "AWS Lamdbda",
-          "AWS Congnito",
-          "AWS DynamoDB",
-          "Rest API",
           "JavaScript",
-          "React"
+          "React Native",
+          "AWS Amplify",
+          "AWS AppSync",
+          "AWS S3",
+          "GraphQL"
         ]
       }
     ]
