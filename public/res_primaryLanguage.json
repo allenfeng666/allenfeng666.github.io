@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Allen Feng, a recent graduate from University of Washington with experience in backend / full-stack development. I am experienced in Java, JavaScript, and frameworks like Spring Boot, React, Node.js. I am also experienced in tools like AWS Cloud, Firebase, Redis and RabbitMQ to improve the performance and usability of web apps.",
+      "description": "👋 I'm Allen Feng, a recent graduate from University of Washington with experience in backend/full-stack development. I am experienced in Java, JavaScript, Python and HTML/CSS. I am also experienced in tools like AWS Cloud, Redis and RabbitMQ to improve the performance and usability of web apps. \n \n During my internship, I helped improve the e-commerce website loading speed from 5 seconds to 1 second and also implemented backend API of new features that improved revenue by 10%. \n \n More info: Resume/Github/Linkedin at bottom of website👇",
       "section_name": {
         "about": "About me",
         "projects": "Internships & Projects",
@@ -13,7 +13,7 @@
       {
         "title": "Internship - Ecommerce Website",
         "startDate": "2021",
-        "description": "Transformed e-commerce website architecture to support high concurrent shopping sessions.\nDeveloped REST API of the “limited time sale” feature that improved customer ordering percentage.\nAccelerated website loading speed by 300% using static websites, Redis, and CDN.\nOptimized system performance for asynchronous database processing using RabbitMQ.\nUtilized Agile methodologies and Scrum framework to improve remote team development efficiency by 20%.",
+        "description": "Transformed e-commerce website architecture to support high concurrent shopping sessions.\n Developed REST API of the “limited time sale” feature that improved customer ordering percentage.\nAccelerated website loading speed by 300% using static websites, Redis, and CDN.\nOptimized system performance for asynchronous database processing using RabbitMQ.\nUtilized Agile methodologies and Scrum framework to improve remote team development efficiency by 20%.",
         "images": [
           "images/portfolio/internship_1/internship_website.png"
         ],
@@ -34,13 +34,13 @@
         ]
       },
       {
-        "title": "Projects - Amazon Clone",
+        "title": "Projects - Web 3.0 Marketplace",
         "startDate": "2022",
         "description": "An amazon website clone done using using JavaScript and Firebase. Features inclues user authentication, browsing products, and checkout.)",
         "images": [
-          "images/portfolio/amazon-shopping.png"
+          "images/portfolio/project_1/amazon-shopping.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-javascript-plain",
@@ -49,10 +49,6 @@
           {
             "class": "devicon-react-plain",
             "name": "React"
-          },
-          {
-            "class": "devicon-firebase-plain",
-            "name": "Firebase"
           }
         ]
       },
@@ -61,9 +57,9 @@
         "startDate": "2021",
         "description": "One of the first apps I worked on,  allowing users to record and schedule events, and provide analyzed statistics to maximize efficiency. Implemented user authentication using AWS Cognito, and REST API with AWS Lambda.",
         "images": [
-          "images/portfolio/amazon-shopping.png"
+          "images/portfolio/project_2/project_webapp.png"
         ],
-        "url": "https://github.com",
+        "url": "",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -83,17 +79,16 @@
     "experience": [
       {
         "company": "Personal Project",
-        "title": "Amazon Clone",
-        "years": "Apr.2022 - present",
+        "title": "Web 3.0 Blockchain Market",
+        "years": "May.2022 - present",
         "mainTech": [
           "JavaScript"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
           "JavaScript",
-          "NodeJS",
-          "Firebase"
+          "Next JS",
+          "Sanity.io",
+          "Moralis"
         ]
       },
       {
@@ -114,18 +109,33 @@
       },
       {
         "company": "Personal Project",
-        "title": "Time Management app",
-        "years": "Jan.2021 - March.2021",
+        "title": "Mobile Twitter Clone",
+        "years": "May.2021 - August.2021",
         "mainTech": [
-          "AWS"
+          "TypeScript"
         ],
         "technologies": [
-          "AWS Lamdbda",
-          "AWS Congnito",
-          "AWS DynamoDB",
-          "Rest API",
-          "JavaScript",
-          "React"
+          "TypeScript",
+          "React Native",
+          "AWS Amplify",
+          "AWS AppSync",
+          "AWS S3",
+          "GraphQL"
+        ]
+      },
+      {
+        "company": "Group Project",
+        "title": "Bunny Rescue Website",
+        "years": "January.2021 - May.2021",
+        "mainTech": [
+          "Java"
+        ],
+        "technologies": [
+          "Java",
+          "HTML",
+          "CSS",
+          "Bootstrap",
+          "MySQL"
         ]
       }
     ]

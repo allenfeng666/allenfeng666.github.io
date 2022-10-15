@@ -6,8 +6,6 @@ import awsIcon from "@iconify/icons-logos/aws";
 import reactIcon from "@iconify/icons-logos/react";
 import springIcon from "@iconify/icons-logos/spring";
 import redisIcon from "@iconify/icons-logos/redis";
-import nodeIcon from "@iconify/icons-logos/nodejs";
-import firebaseIcon from "@iconify/icons-logos/firebase"
 
 
 class About extends Component {
@@ -48,20 +46,12 @@ class About extends Component {
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
-                    icon={nodeIcon}
-                    style={{ fontSize: "370%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
                       icon={awsIcon}
                       style={{ fontSize: "300%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                       icon={redisIcon}
                       style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
-                      icon={firebaseIcon}
-                      style={{ fontSize: "440%", margin: "9% 5% 0 5%" }}
                   />
                 </span>
               </div>
@@ -95,6 +85,7 @@ class About extends Component {
                       height: "auto",
                       fontSize: "132%",
                       lineHeight: "200%",
+                      whiteSpace: "pre-line",
                     }}
                   >
                     <br />

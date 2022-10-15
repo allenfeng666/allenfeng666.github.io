@@ -4,6 +4,11 @@
       "titles": [ "Full Stack Software Engineer", "Backend Software Engineer" ],
       "social": [
         {
+          "name": "resume",
+          "url": "files/Allen_Feng_SDE.pdf",
+          "class": "fas fa-file-user"
+        },
+        {
           "name": "github",
           "url": "https://github.com/allenfeng666",
           "class": "fab fa-github"
@@ -38,11 +43,6 @@
           "class": "devicon-react-plain",
           "level": "80"
         },
-        {
-          "name": "Node JS",
-          "class": "devicon-nodejs-plain",
-          "level": "70"
-        }, 
         {
           "name": "MySql",
           "class": "devicon-mysql-plain",

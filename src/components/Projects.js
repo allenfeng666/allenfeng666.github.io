@@ -29,8 +29,7 @@ class Projects extends Component {
               <div className="foto" onClick={() => detailsModalShow(projects)}>
                 <div>
                   <img
-                    // src={projects.images[0]}
-                    src = "images/portfolio/amazon-shopping.png"
+                    src={projects.images[0]}
                     alt="projectImages"
                     height="230"
                     style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
