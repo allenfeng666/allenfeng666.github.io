@@ -2,8 +2,10 @@
 
 Welcome to my personal website!
 
-[Link to the live personal website](https://allenfeng666.github.io/)
+[Link to the live personal website](https://allenfeng666.github.io)
+
 [Link to my LinkedIn profile](https://www.linkedin.com/in/allen-feng)
+
 [Link to my Resume](https://allenfeng666.github.io/files/Allen_Feng_SDE.pdf)
 
 ⭐ Inspirations
