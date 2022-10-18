@@ -23,7 +23,7 @@ class Projects extends Component {
           <div
             className="col-sm-12 col-md-6 col-lg-4"
             key={projects.title}
-            style={{ cursor: "pointer" }}
+            style={{ cursor: "pointer", margin: "0 auto" }}
           >
             <span className="portfolio-item d-block">
               <div className="foto" onClick={() => detailsModalShow(projects)}>
@@ -32,7 +32,11 @@ class Projects extends Component {
                     src={projects.images[0]}
                     alt="projectImages"
                     height="230"
-                    style={{marginBottom: 0, paddingBottom: 0, position: 'relative'}}
+                    style={{
+                      marginBottom: 0,
+                      paddingBottom: 0,
+                      position: "relative",
+                    }}
                   />
                   <span className="project-date">{projects.startDate}</span>
                   <br />

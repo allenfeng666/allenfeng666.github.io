@@ -9,7 +9,6 @@ import Projects from "./components/Projects";
 import Skills from "./components/Skills";
 
 class App extends Component {
-
   constructor(props) {
     super();
     this.state = {
@@ -29,8 +28,7 @@ class App extends Component {
     this.loadResumeFromPath(resumePath);
   }
 
-  swapCurrentlyActiveLanguage(oppositeLangIconId) {
-  }
+  swapCurrentlyActiveLanguage(oppositeLangIconId) {}
 
   componentDidMount() {
     this.loadSharedData();
@@ -82,8 +80,7 @@ class App extends Component {
               )
             }
             style={{ display: "inline" }}
-          >
-          </div>
+          ></div>
           <div
             onClick={() =>
               this.applyPickedLanguage(
@@ -92,17 +89,16 @@ class App extends Component {
               )
             }
             style={{ display: "inline" }}
-          >
-          </div>
+          ></div>
         </div>
         <About
           resumeBasicInfo={this.state.resumeData.basic_info}
           sharedBasicInfo={this.state.sharedData.basic_info}
         />
-        {/* <Projects
+        <Projects
           resumeProjects={this.state.resumeData.projects}
           resumeBasicInfo={this.state.resumeData.basic_info}
-        /> */}
+        />
         <Skills
           sharedSkills={this.state.sharedData.skills}
           resumeBasicInfo={this.state.resumeData.basic_info}
